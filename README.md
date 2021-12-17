@@ -7,4 +7,8 @@ and private keys to encrypt, and decrypt a message. To produce these keys we wil
 
 This project will be implemented in Python languages, so a proper platform or IDE that can run py files will be needed, such as Spyder, VisualCode, anaconda etc.
 
+## Getting Started 
+
+
+
 
