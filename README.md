@@ -14,8 +14,8 @@ This project will be implemented in Python languages, so a proper platform or ID
  using the formula e *d) mod T = 1. When both keys are available we can use this formula to Encrypt (m^e mod n), then this formula (m^d mod n) to decrypt.
  
 ## Coding And Runnig
-Part of this project was implemented from another source. The modification made to this project, strengthen the encryption of the message by encrypting
-by blocks of character instead of char by char. We created blocks, and used a formula to encrypt, then we decrypt then detach and print. 
+Part of this project was implemented from another source. The modification made to this project, strengthen the encryption of the message, encrypting
+by blocks of characters instead of singles "char by char". We created blocks, and used a formula to encrypt, next we decrypt the message using another formula, then we finally detach and print. 
 ## Acknowledgement 
 
 https://github.com/Mardokai/RSA-algorithm-
