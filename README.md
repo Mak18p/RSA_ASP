@@ -18,4 +18,5 @@ Part of this project was implemented from another source. The modification made 
 by blocks of character instead of char by char. We created blocks, and used a formula to encrypt, then we decrypt then detach and print. 
 ## Acknowledgement 
 
-
+https://github.com/Mardokai/RSA-algorithm-
+https://searchsecurity.techtarget.com/definition/RSA
